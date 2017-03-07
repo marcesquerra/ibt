@@ -1,0 +1,7 @@
+package ex
+
+opts = "--total"
+sourcedir=temporalLocationOfIdrisSource
+executable=target_ibt
+pkgs=contrib
+main=Main
